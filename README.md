@@ -40,11 +40,11 @@ by *SuperSimpleDev*
 
 ## 🔧 Future Improvements
 
--🔐 Add authentication and login functionality
--🧾 Implement product detail pages
--📱 Improve responsive layout for mobile devices
--🔎 Add search bar and product filtering
--🛠️ Build a backend using Node.js
--🖼️ Lazy load images for better performance
+- 🔐 Add authentication and login functionality
+- 🧾 Implement product detail pages
+- 📱 Improve responsive layout for mobile devices
+- 🔎 Add search bar and product filtering
+- 🛠️ Build a backend using Node.js
+- 🖼️ Lazy load images for better performance
 
 ---

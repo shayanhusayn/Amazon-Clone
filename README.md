@@ -46,3 +46,5 @@ by *SuperSimpleDev*
 -🔎 Add search bar and product filtering
 -🛠️ Build a backend using Node.js
 -🖼️ Lazy load images for better performance
+
+---

@@ -3,6 +3,8 @@
 A **front-end clone** of the Amazon website built using **HTML**, **CSS**, and **JavaScript**.  
 This project was created **for learning purposes only**.
 
+🔗 [Live Amazon Clone](https://amazon-clone-nu-red-36.vercel.app/)
+
 ---
 
 ## 📚 Source of Learning
